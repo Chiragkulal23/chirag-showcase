@@ -18,11 +18,11 @@ This is a personal portfolio website built using Vite+React, Tailwind CSS, and F
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/sathishk-dev/illustration-portfolio.git
+   git clone https://github.com/Chiragkulal23/chirag-showcase
    ```
 2. Navigate to the project directory:
    ```sh
-   cd illustration-portfolio
+   cd chirag-tech-portfolio
    ```
 3. Install dependencies:
    ```sh
@@ -51,8 +51,8 @@ If you like this project, please star it and share it with your friends!
 
 ## Contact
 If you have any questions or suggestions, feel free to reach out via:
-- **Email:** sathish31102004@gmail.com
-- **LinkedIn:** [@sathishk-dev](https://linkedin.com/in/sathishk-dev)
+- **Email:** chiragkulal44@gmail.com
+- **LinkedIn:** https://linkedin.com/in/chiragkulal-b4b1a82a1
 
 ---
-Made with ❤️ by Sathish Kumar.
+Made by Chirag.
